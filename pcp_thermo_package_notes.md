@@ -1,4 +1,4 @@
-# Corrected PCP thermodynamic-figure package
+# PCP thermodynamic numerical details
 
 ## Files
 - `pcp_pressure_comparison_main.(png|pdf)`
