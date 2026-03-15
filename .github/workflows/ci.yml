@@ -10,6 +10,8 @@ jobs:
   test-and-figures:
     name: Install, Test, Generate Figures
     runs-on: ubuntu-latest
+    permissions:
+      contents: read
 
     steps:
       - name: Checkout repository
